@@ -15,7 +15,7 @@ _Collaborate and work together on GitHub._
 
 <!--
   <<< Author notes: Step 5 >>>
-  Start this step by acknowledging the previous step.
+  Place to improvise.
   Define terms and link to docs.github.com.
 -->
 
